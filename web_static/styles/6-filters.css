@@ -90,7 +90,7 @@ li{
 }
 
 ul{
-    padding-top: 30px;
+    padding: 30px;
 }
 
 .locations:hover >.popover{
